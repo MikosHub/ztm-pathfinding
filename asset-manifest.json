@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ztm-pathfinding/static/css/main.f967dc4f.css",
+    "main.js": "/ztm-pathfinding/static/js/main.ae8e2bfc.js",
+    "index.html": "/ztm-pathfinding/index.html",
+    "main.f967dc4f.css.map": "/ztm-pathfinding/static/css/main.f967dc4f.css.map",
+    "main.ae8e2bfc.js.map": "/ztm-pathfinding/static/js/main.ae8e2bfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f967dc4f.css",
+    "static/js/main.ae8e2bfc.js"
+  ]
+}
